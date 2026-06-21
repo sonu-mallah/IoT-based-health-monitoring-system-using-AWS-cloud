@@ -1,6 +1,6 @@
 # Remote Patient Monitoring System
 
-A real-time IoT-based Remote Patient Monitoring (RPM) system developed using AWS cloud services, MQTT communication, Streamlit, and machine learning-assisted risk analysis.
+A real-time IoT-based health monitoring system using AWS cloud services, MQTT communication, Streamlit, and machine learning-assisted risk analysis.
 
 The system continuously simulates patient vital signs, sends the data securely to AWS cloud infrastructure, stores patient records in DynamoDB, and visualizes patient health status through an interactive dashboard.
 
