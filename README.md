@@ -43,7 +43,6 @@ The system continuously simulates patient vital signs, sends the data securely t
 
 ### Communication
 - MQTT Protocol
-- Paho MQTT Client
 
 ---
 
@@ -60,6 +59,6 @@ AWS Lambda
    ↓
 DynamoDB
    ↓
-Streamlit Dashboard
+ML-Assisted Risk Estimation
    ↓
-Risk Analysis
+Streamlit Dashboard
