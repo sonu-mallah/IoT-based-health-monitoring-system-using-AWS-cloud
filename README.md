@@ -89,7 +89,6 @@ The database schema separates static patient information, real-time vital signs,
 - AWS IoT Core
 - AWS Lambda
 - Amazon DynamoDB
-- Boto3
 
 ---
 
